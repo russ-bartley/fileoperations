@@ -11,6 +11,7 @@ using System.Security.Principal; // for windowsidentity
 // a test class for learninghow to manipulate files in c# & .Net
 //  written 10/6/17 as a precursor for palying with git, git lfs, & how it interacts with atlassians sourcetree.
 
+    // for commit.
 namespace fileoperations
 {
     class Program
